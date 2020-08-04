@@ -14,8 +14,8 @@
     "log-file": null,
     "pools": [
         {
-            "url": "donate2.graef.in:8188",
-            "user": "YOUR_WALLET",
+            "url": "uplexa.herominers.com:10471",
+            "user": "UPX1R1GEXpW2qxSyi8fKQuPyGet529P6tKLnyWgArt8YhgttKM8kgjRNxkkyriCrZp8JBmRfEkvVa72W8osCUn6s9D5dyHRr7G",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
